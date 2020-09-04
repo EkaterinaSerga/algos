@@ -1,4 +1,4 @@
-### **Checkpoints**
+### **ALGOS**
 
 | Topic | Link | Due by 6pm EST on | Solution |
 | ---------- | ---- | ------ | -------- |
