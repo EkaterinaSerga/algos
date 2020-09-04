@@ -7,4 +7,4 @@
 [//]: # ( Paste in table above >> [🔗][algo-1] )
 [algo-1]: https://leetcode.com/problems/merge-two-binary-trees/
 [//]: # ( Paste in table above >> [👾][algo-1-sol] )
-[ckpt-dom-sol]: #tbd
+[ckpt-dom-sol]: https://leetcode.com/problems/merge-two-binary-trees/solution/
