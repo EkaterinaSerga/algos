@@ -1,6 +1,6 @@
 ### **ALGOS**
 
-| Topic | Link | Due by 6pm EST on | Solution |
+| Topic | Link | Date | Solution |
 | ---------- | ---- | ------ | -------- |
 | Merge Two Binary Trees | [🔗][algo-1] | Sat, Sept 5 | [👾][algo-1-sol] |
 
